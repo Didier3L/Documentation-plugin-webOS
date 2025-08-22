@@ -2,8 +2,8 @@
      alt="webOS_icon" 
      style="width:30%; height:auto;" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/01deb7fa-6b1c-4a43-afdb-e1ea276d6f5f" 
-     alt="image" 
+<img src="./images/image1.png" 
+     alt="image1" 
      style="width:45%; height:auto;" />
 
 
