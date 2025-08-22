@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/32f1ab24-2625-4a67-a673-53ba34378dc3" 
+<img src="./images/webOS_icon.png" 
      alt="webOS_icon" 
      style="width:30%; height:auto;" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
