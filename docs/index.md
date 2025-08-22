@@ -3,7 +3,7 @@
      style="width:30%; height:auto;" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/image1.png" 
-     alt="image1" 
+     alt="image" 
      style="width:45%; height:auto;" />
 
 
