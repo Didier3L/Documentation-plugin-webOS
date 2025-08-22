@@ -149,9 +149,6 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 **R:** Le plugin filtre automatiquement les applications système. Seules les applications utilisateur sont affichées.
 
 ## 🆘 Support et communauté
-
-- **Documentation** : [Documentation ](https://didier3l.github.io/webOS-Documentation/)
-- **Changelog** : [Historique des versions](https://didier3l.github.io/webOS-Documentation/changelog)
 - **Forum** : [Community Jeedom](https://community.jeedom.com/tag/plugin-webOS)
 
 ---
