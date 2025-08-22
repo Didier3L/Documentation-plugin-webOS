@@ -45,7 +45,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## ⚙️ Configuration
 
-  ### 1️⃣ Activation de LG Connect Apps  
+### 1️⃣ Activation de LG Connect Apps  
   
 <img src="./images/image3.png" 
      alt="image" 
@@ -57,7 +57,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
   2. Allez dans **Réseau** → **LG Connect Apps**
   3. **Activez** l'option
 
-  ### 2️⃣ Configuration dans Jeedom
+### 2️⃣ Configuration dans Jeedom
 
   1. Allez dans **Plugins** → **Multimédia** → **webOS**
   2. Cliquez sur **Ajouter** pour créer un nouvel équipement
@@ -78,7 +78,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
       **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
       (fonction disponible selon la version de votre TV).
 
-  ### 3️⃣ Association avec la TV ! La TV doit etre impérativement allumée !
+### 3️⃣ Association avec la TV ! La TV doit etre impérativement allumée !
 
   1. **Sauvegardez** votre equipement
   2. Une fenêtre apparaîtra sur votre TV demandant l'autorisation de la connexion
@@ -88,9 +88,9 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ---
 
-  ## 🖥️ Interface utilisateur
+## 🖥️ Interface utilisateur
 
-  ### 📊 Dashboard
+### 📊 Dashboard
 
   Le widget sur le dashboard affiche :
   - **Indicateur d'état** : Vert (allumée) / Rouge (éteinte)
@@ -101,7 +101,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
     - Applications
     - Chaînes TNT
 
-  ### ⚙️ Configuration de l'équipement 
+### ⚙️ Configuration de l'équipement 
 
   L'interface de configuration est organisée en onglets :
 
@@ -116,17 +116,17 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 ---
 ## 🔧 Résolution des problèmes
 
-  #### 🔍 La TV n'est pas détectée
+### 🔍 La TV n'est pas détectée
   - Vérifiez que **LG Connect Apps** est activé
   - Vérifiez que la TV et Jeedom sont sur le même réseau local
   - Essayez de redémarrer votre TV
   - Vérifiez l'adresse IP de la TV
 
-  #### 🔗 La connexion avec la TV échoue
+### 🔗 La connexion avec la TV échoue
   - Supprimez "authenticated" et ressayez
   - Vérifiez que vous acceptez bien la connexion sur la TV
 
-  #### 📱 Applications manquantes
+## 📱 Applications manquantes
   - Téléviseur allumée, sauvegardez à nouveau l'équipement pour forcer la récupération
 
 ---
