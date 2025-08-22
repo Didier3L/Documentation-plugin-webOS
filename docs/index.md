@@ -72,7 +72,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      | **Commandes principales** | Allumer, Éteindre, Volume, Chaînes, Notification, Message d'alerte |
      | **Entrées** | Live TV, HDMI, AV  |
      | **Contrôles média** | Lecture, Pause, Stop, etc. |
-     | **Applications** | Les applications que vous avez installées sur votre TV (Netflix, Prime Vidéo, YouTube, etc.) |
+     | **Applications** | Les apps LG et celles que vous avez installées (Netflix, Prime Vidéo, YouTube, etc.) |
      | **Chaînes TNT** | Chaînes TNT de télévision |
 
       **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
