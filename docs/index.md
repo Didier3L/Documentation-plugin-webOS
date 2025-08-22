@@ -31,7 +31,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 - ⚠️ **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/2cca607e-4b15-405c-abc8-88589e50ab36" 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/image2.png" 
      alt="image" 
      style="width:45%; height:auto;" />
 
@@ -47,7 +47,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
   ### 1️⃣ Activation de LG Connect Apps  
   
-<img src="https://github.com/user-attachments/assets/a17c6726-2efc-401d-a6e5-33d343ed99e5" 
+<img src="./images/image3.png" 
      alt="image" 
      style="width:30%; height:auto;" />
 
