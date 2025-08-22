@@ -90,16 +90,11 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## 🖥️ Interface utilisateur
 
-### 📊 Dashboard
+### 📋 Widget
 
   Le widget sur le dashboard affiche :
   - **Indicateur d'état** : Vert (allumée) / Rouge (éteinte)
-  - **Sections organisées** :
-    - Commandes principales
-    - Entrées
-    - Contrôles média
-    - Applications
-    - Chaînes TNT
+  - **Sectionss** : Commandes principales / Entrées / Contrôles média / Applications / Chaînes TNT
 
 ### ⚙️ Configuration de l'équipement 
 
