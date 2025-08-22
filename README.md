@@ -75,7 +75,6 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      | **Applications** | Les applications que vous avez installées sur votre TV (Netflix, Prime Vidéo, YouTube, etc.) |
      | **Chaînes TNT** | Chaînes TNT de télévision |
 
-      #### Option
       **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
       (fonction disponible selon la version de votre TV).
 
