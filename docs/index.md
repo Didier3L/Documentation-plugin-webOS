@@ -131,8 +131,8 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 ### 📺 Q: Puis-je contrôler plusieurs TV ?
 **R:** Oui, créez un équipement par TV. Chaque TV aura ses propres commandes et configuration.
 
-### ♻️ Q: Quand je sauvegarde mon équipepement, jeedom tourne en rond ?
-**R:** Toutes les modifications doivent etre faites télévision allumées.
+### ♻️ Q: Quand je sauvegarde mon équipement, jeedom tourne en rond ?
+**R:** Toutes les modifications doivent etre faites télévision allumée.
 
 ### 🐌 Q: Les commandes sont lentes ?
 **R:** Cela peut être normal selon la version WebOS. Les TV plus récentes sont généralement plus réactives.
