@@ -20,7 +20,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## ⚡ Fonctionnalités
 
-- ✨ **Fonction Multi-TV** : Piloter et controler plusieurs TV
+- ✨ **Fonction Multi-TV** : Piloter et contrôler plusieurs téléviseurs plusieurs TV
 - *️⃣ **Commandes de base** : Allumer/Éteindre, Volume, Changement de chaînes
 -  **Gestion des entrées** : Basculer entre Live TV, HDMI, AV, etc.
 -  **Applications** : Lancement des applications LG et Apps personnelles installées (Netflix, Prime vidéo, YouTube, etc.)
