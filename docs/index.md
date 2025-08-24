@@ -11,7 +11,7 @@
 
 ## 📋 Description
 
-Le plugin webOS permet de contrôler les téléviseurs LG équipés du système WebOS directement depuis Jeedom.  
+Le plugin webOS permet de piloter les téléviseurs LG équipés du système WebOS directement depuis Jeedom.  
 Il utilise le code python de **klattimer** https://github.com/klattimer/LGWebOSRemote
 
 Il offre un contrôle complet de votre TV LG incluant la gestion des applications, des entrées, des chaînes TNT, des commandes média et bien plus.
