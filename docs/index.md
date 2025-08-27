@@ -20,15 +20,15 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## ⚡ Fonctionnalités
 
-- ✨ **Fonction Multi-TV** : Piloter et contrôler plusieurs téléviseurs plusieurs TV
-- *️⃣ **Commandes de base** : Allumer/Éteindre, Volume, Changement de chaînes
--  **Gestion des entrées** : Basculer entre Live TV, HDMI, AV, etc.
--  **Applications** : Lancement des applications LG et Apps personnelles installées (Netflix, Prime vidéo, YouTube, etc.)
--  **Chaînes TNT** : Accès direct aux chaînes de télévision
-- ⏯️ **Contrôles média** : Lecture, Pause, Stop, Avance/Retour rapide
-- 💬 **Notifications** : Envoi de notification sur l'écran de la TV
-- 🔄 **Statut** : Surveillance de l'état de la TV
-- ⚠️ **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
+- **Fonction Multi-TV** : Piloter et contrôler plusieurs téléviseurs plusieurs TV
+- **Commandes de base** : Allumer/Éteindre, Volume, Changement de chaînes
+- **Gestion des entrées** : Basculer entre Live TV, HDMI, AV, etc.
+- **Applications** : Lancement des applications LG et Apps personnelles installées (Netflix, Prime vidéo, YouTube, etc.)
+- **Chaînes TNT** : Accès direct aux chaînes de télévision
+- **Contrôles média** : Lecture, Pause, Stop, Avance/Retour rapide
+- **Notifications** : Envoi de notification sur l'écran de la TV
+- **Statut** : Surveillance de l'état de la TV
+- **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/image2.png" 
@@ -128,20 +128,20 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## ❓ Questions fréquentes (FAQ)
 
-### 📺 Q: Puis-je contrôler plusieurs TV ?
-**R:** Oui, créez un équipement par TV. Chaque TV aura ses propres commandes et configuration.
+### 📺 Puis-je contrôler plusieurs TV ?
+Oui, créez un équipement par TV. Chaque TV aura ses propres commandes et configuration.
 
-### ♻️ Q: Quand je sauvegarde mon équipement, jeedom tourne en rond ?
-**R:** Toutes les modifications doivent etre faites télévision allumée.
+### ♻️ Quand je sauvegarde mon équipement, jeedom tourne en rond ?
+Toutes les modifications doivent etre faites télévision allumée.
 
-### 🐌 Q: Les commandes sont lentes ?
-**R:** Cela peut être normal selon la version WebOS. Les TV plus récentes sont généralement plus réactives.
+### 🐌 Les commandes sont lentes ?
+Cela peut être normal selon la version WebOS. Les TV plus récentes sont généralement plus réactives.
 
-### 🔄 Q: Comment réinitialiser l'association ?
-**R:** Supprimez **authenticated** dans la configuration et sauvegardez. Le processus d'appairage redémarrera.
+### 🔄 Comment réinitialiser l'association ?
+Supprimez **authenticated** dans la configuration et sauvegardez. Le processus d'appairage redémarrera.
 
-### 📱 Q: Certaines applications n'apparaissent pas ?
-**R:** Le plugin filtre automatiquement les applications système. Seules les applications utilisateur sont affichées.
+### 📱 Certaines applications n'apparaissent pas ?
+Le plugin filtre automatiquement les applications système. Seules les applications utilisateur sont affichées.
 
 ## 🆘 Support et communauté
 - **Forum** : [Community Jeedom](https://community.jeedom.com/tag/plugin-webOS)
