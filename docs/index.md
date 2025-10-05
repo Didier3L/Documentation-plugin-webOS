@@ -9,7 +9,7 @@
 
 # Plugin webOS pour Jeedom
 
-## [Changelog :](CHANGELOG.md) - Historique des versions
+## Historique des versions : [changelog](CHANGELOG.md) 
 
 ## 📋 Description
 
