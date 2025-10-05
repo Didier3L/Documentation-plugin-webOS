@@ -9,6 +9,8 @@
 
 # Plugin webOS pour Jeedom
 
+## [Changelog :](docs/CHANGELOG.md) - Historique des versions
+
 ## 📋 Description
 
 Le plugin webOS permet de piloter les téléviseurs LG équipés du système WebOS directement depuis Jeedom.  
