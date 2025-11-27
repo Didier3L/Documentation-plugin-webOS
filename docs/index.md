@@ -31,6 +31,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 - **Notifications** : Envoi de notification sur l'écran de la TV
 - **Statut** : Surveillance de l'état de la TV
 - **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
+- **Web** : Commande pour ouvrir une adresse URL personnalisée dans le navigateur Web de la télé.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/image2.png" 
