@@ -3,7 +3,7 @@
 ## 25/02/2026 - (1.4.1) - Beta
 
 - mise à jour pour support de webOS25
-- Nouveau menu Télécommande : 
+- Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
 
 ## 27/11/2025 - (1.4.0) - Beta & Stable
 
