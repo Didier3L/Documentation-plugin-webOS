@@ -32,6 +32,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 - **Statut** : Surveillance de l'état de la TV
 - **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
 - **Web** : Commande pour ouvrir une adresse URL personnalisée dans le navigateur Web de la télé.
+- **Télécommande** : Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/image2.png" 
@@ -55,9 +56,14 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      style="width:30%; height:auto;" />
 
   **Important** : Avant toute configuration dans Jeedom, vous devez activer **LG Connect Apps** sur votre TV LG :
-
+  Suivant la version de webOS :
+  
   1. Sur votre TV LG, accédez au menu de configuration
   2. Allez dans **Réseau** → **LG Connect Apps**
+  3. **Activez** l'option
+  ou
+  1. Sur votre TV LG, accédez au menu de configuration
+  2. Allez dans **Périphérique externe** → **Téléviseur allumée avec un appareil mobile**
   3. **Activez** l'option
 
 ### 2️⃣ Configuration dans Jeedom
@@ -75,6 +81,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      - **Contrôles média** : Lecture, Pause, Stop, etc.
      - **Applications** : Les apps LG et celles que vous avez installées (Netflix, Prime Vidéo, YouTube, etc.
      - **Chaînes TNT** : Chaînes TNT de télévision.
+     - **Télécommande** : Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
 
      - **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
       (fonction disponible selon la version de votre TV).
@@ -107,6 +114,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
   4. **Contrôles média** : Commandes de lecture
   5. **Applications** : Liste des apps
   6. **Chaînes TNT** : Liste des chaînes TNT
+  7. **Télécommande** : Commande des boutons de la télecommande
 
 
 ---
