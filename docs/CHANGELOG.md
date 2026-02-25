@@ -1,5 +1,10 @@
 # Changelog
 
+## 25/02/2026 - (1.4.1) - Beta
+
+- mise à jour pour support de webOS25
+- Nouveau menu Télécommande : 
+
 ## 27/11/2025 - (1.4.0) - Beta & Stable
 
 - Attribution des couleurs pour les nouvelles Entrées
