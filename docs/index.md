@@ -42,8 +42,8 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 ## 🚀 Installation
 
 1. Rendez-vous dans le Market Jeedom
-2. Recherchez "webOS" 
-3. Cliquez sur "Installer"
+2. Recherchez **webOS** 
+3. Cliquez sur **Installer**
 4. Activez le plugin
 5. Attendez l'installation des dépendances (lancement automatique)
 
@@ -60,8 +60,10 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
   
   1. Sur votre TV LG, accédez au menu de configuration
   2. Allez dans **Réseau** → **LG Connect Apps**
-  3. **Activez** l'option
-  ou
+  3. **Activez** l'option  
+  
+  ou  
+  
   1. Sur votre TV LG, accédez au menu de configuration
   2. Allez dans **Périphérique externe** → **Téléviseur allumée avec un appareil mobile**
   3. **Activez** l'option
@@ -73,14 +75,14 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
   3. Donnez un nom à votre TV
   4. Configurez les paramètres :
      - Saissisez l'adresse IP de votre TV LG
-     > **Note** : Si vous laissez l'adresse IP vide, le plugin tentera une découverte automatique
+     > **Note** : Si vous laissez l'adresse IP vide, le plugin tentera une découverte automatique.
      - Association LG Connect Apps : Laissez ce champ vide lors de la première configuration.
   5. Choisissez les groupes de commandes à créer :
      - **Commandes principales** : Allumer, Éteindre, Volume, Chaînes, Notification, Message d'alerte.
      - **Entrées** : Live TV, HDMI, AV.
      - **Contrôles média** : Lecture, Pause, Stop, etc.
      - **Applications** : Les apps LG et celles que vous avez installées (Netflix, Prime Vidéo, YouTube, etc.
-     - **Chaînes TNT** : Chaînes TNT de télévision.
+     - **Chaînes TNT** : Chaînes numériques terrestre.
      - **Télécommande** : Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
 
      - **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
@@ -100,21 +102,21 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ### 📋 Widget
 
-  Le widget sur le dashboard affiche :
+  Le widget affiche :
   - **Indicateur d'état** : Vert (allumée) / Rouge (éteinte)
-  - **Sectionss** : Commandes principales / Entrées / Contrôles média / Applications / Chaînes TNT
+  - **Sectionss** : Commandes principales / Entrées / Contrôles média / Applications / Chaînes TNT / Télécommande
 
 ### ⚙️ Configuration de l'équipement 
 
   L'interface de configuration est organisée en onglets :
 
-  1. **Équipement** : Configuration générale
-  2. **Commandes principales** : Gestion des commandes essentielles
-  3. **Entrées** : Gestion des entrées
-  4. **Contrôles média** : Commandes de lecture
-  5. **Applications** : Liste des apps
-  6. **Chaînes TNT** : Liste des chaînes TNT
-  7. **Télécommande** : Commande des boutons de la télecommande
+  1. **Équipement** 
+  2. **Commandes principales**
+  3. **Entrées**
+  4. **Contrôles média**
+  5. **Applications**
+  6. **Chaînes TNT**
+  7. **Télécommande**
 
 
 ---
@@ -138,7 +140,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 ## ❓ Questions fréquentes (FAQ)
 
 ### 📺 Puis-je contrôler plusieurs TV ?
-Oui, créez un équipement par TV. Chaque TV aura ses propres commandes et configuration.
+**Oui**, créez un équipement par TV. Chaque TV aura ses propres commandes et configuration.
 
 ### ♻️ Quand je sauvegarde mon équipement, jeedom tourne en rond ?
 Toutes les modifications doivent etre faites télévision allumée.
