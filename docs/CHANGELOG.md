@@ -1,9 +1,10 @@
 # Changelog
 
-## 25/02/2026 - (1.4.1) - Beta
+## 12/03/2026 - (1.4.1) - Beta & Stable 
 
 - mise à jour pour support de webOS25
 - Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
+- ajout apps Pluto TV
 
 ## 27/11/2025 - (1.4.0) - Beta & Stable
 
