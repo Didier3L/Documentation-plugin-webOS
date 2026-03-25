@@ -31,7 +31,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 - **Notifications** : Envoi de notification sur l'écran de la TV
 - **Statut** : Surveillance de l'état de la TV
 - **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
-- **Web** : Commande pour ouvrir une adresse URL personnalisée dans le navigateur Web de la télé.
+- **Web** : Commande pour acceder à vos URLs personnalisées dans le navigateur Web de la télé.
 - **Télécommande** : Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
 
 
@@ -118,6 +118,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
   6. **Chaînes TNT**
   7. **Télécommande**
 
+  👁️‍🗨️ Dans l'onglet **Commandes principales** vous pouvez ajouter vos URLs personnalisees pour ouvrir une page web dans le navigateur de la TV
 
 ---
 ## 🔧 Résolution des problèmes
