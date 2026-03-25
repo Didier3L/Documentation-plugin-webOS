@@ -1,5 +1,9 @@
 # Changelog
 
+## 25/03/2026 - (1.4.2) - Stable
+
+- Ajout de commande pour acceder à vos URLs personnalisées
+
 ## 12/03/2026 - (1.4.1) - Beta & Stable 
 
 - mise à jour pour support de webOS25
