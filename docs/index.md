@@ -78,12 +78,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      > **Note** : Si vous laissez l'adresse IP vide, le plugin tentera une découverte automatique.
      - Association LG Connect Apps : Laissez ce champ vide lors de la première configuration.
   5. Choisissez les groupes de commandes à créer :
-     - **Commandes principales** 
-     - **Entrées** 
-     - **Contrôles média** 
-     - **Applications** : 
-     - **Chaînes TNT** : 
-     - **Télécommande** : 
+     - **Commandes principales** / **Entrées** / **Contrôles média** / **Applications** / **Chaînes TNT** / **Télécommande**
 
      - **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
       (fonction disponible selon la version de votre TV).
