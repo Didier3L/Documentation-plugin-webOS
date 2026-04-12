@@ -32,7 +32,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 - **Statut** : Surveillance de l'état de la TV
 - **Message d'alerte** : Envoi de message d'alerte sur l'écran de la TV (Version 4.0 minimum)
 - **Web** : Commande pour acceder à vos URLs personnalisées dans le navigateur Web de la télé.
-- **Télécommande** : Commande des boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Bouton Rouge, vert, bleu, jaune, etc.
+- **Télécommande** : Réglages, Guide des programmes, Liste des chaines, Info, Gauche, Droite, Haut, Bas, Home, Bouton Rouge Vert Jaune Bleu, etc.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/image2.png" 
@@ -78,12 +78,12 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
      > **Note** : Si vous laissez l'adresse IP vide, le plugin tentera une découverte automatique.
      - Association LG Connect Apps : Laissez ce champ vide lors de la première configuration.
   5. Choisissez les groupes de commandes à créer :
-     - **Commandes principales** : Allumer, Éteindre, Volume, Chaînes, Notification, Message d'alerte, Web, etc.
-     - **Entrées** : Live TV, HDMI, AV.
-     - **Contrôles média** : Lecture, Pause, Stop, etc.
-     - **Applications** : Les apps LG et celles que vous avez installées (Netflix, Prime Vidéo, YouTube, etc.
-     - **Chaînes TNT** : Chaînes numériques terrestre.
-     - **Télécommande** : Boutons de la télecommande : Gauche, Droite, Haut, Bas, Home, Rouge, vert, bleu, jaune, etc.
+     - **Commandes principales** 
+     - **Entrées** 
+     - **Contrôles média** 
+     - **Applications** : 
+     - **Chaînes TNT** : 
+     - **Télécommande** : 
 
      - **TOUJOURS PRET** : Cochez cette case si la fonction **"Toujours Prêt"** est disponible et activée sur votre TV.
       (fonction disponible selon la version de votre TV).
@@ -104,7 +104,7 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
   Le widget affiche :
   - **Indicateur d'état** : Vert (allumée) / Rouge (éteinte)
-  - **Sectionss** : Commandes principales / Entrées / Contrôles média / Applications / Chaînes TNT / Télécommande
+  - **Sections** : Commandes principales / Entrées / Contrôles média / Applications / Chaînes TNT / Télécommande
 
 ### ⚙️ Configuration de l'équipement 
 
