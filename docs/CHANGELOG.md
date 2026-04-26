@@ -1,5 +1,17 @@
 # Changelog
 
+## 12/04/2026 - (1.4.3) - Beta & Stable
+
+:warning: Il est necessaire de relancer les dépendances pour avoir accès aux nouvelles fonctionnalités.
+
+- Ajout des commandes :
+  * Réglages
+  * Guide des programmes
+  * Liste des chaines
+  * Info
+
+- Ordre des boutons rouge, vert, jaune, bleu
+
 ## 25/03/2026 - (1.4.2) - Stable
 
 - Ajout de commande pour acceder à vos URLs personnalisées
