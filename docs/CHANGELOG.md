@@ -1,6 +1,6 @@
 # Changelog
 
-## 12/04/2026 - (1.4.3) - Beta & Stable
+## 26/04/2026 - (1.4.3) - Beta & Stable
 
 :warning: Il est necessaire de relancer les dépendances pour avoir accès aux nouvelles fonctionnalités.
 
