@@ -49,24 +49,29 @@ Il offre un contrôle complet de votre TV LG incluant la gestion des application
 
 ## ⚙️ Configuration
 
-### 1️⃣ Activation de LG Connect Apps  
+### 1️⃣ Activation de l'association TV  
   
-<img src="./images/image3.png" 
-     alt="image" 
-     style="width:30%; height:auto;" />
+  **Important** : Avant toute configuration dans Jeedom, vous devez activer **association TV* sur votre TV LG :  
+  
+  Suivant la version de webOS :  
 
-  **Important** : Avant toute configuration dans Jeedom, vous devez activer **LG Connect Apps** sur votre TV LG :
-  Suivant la version de webOS :
-  
   1. Sur votre TV LG, accédez au menu de configuration
   2. Allez dans **Réseau** → **LG Connect Apps**
   3. **Activez** l'option  
+
+<img src="./images/image3.png" 
+     alt="image" 
+     style="width:30%; height:auto;" />
   
   ou  
   
   1. Sur votre TV LG, accédez au menu de configuration
   2. Allez dans **Périphérique externe** → **Téléviseur allumée avec un appareil mobile**
   3. **Activez** l'option
+
+<img src="./images/image4.jpeg" 
+     alt="image" 
+     style="width:30%; height:auto;" />
 
 ### 2️⃣ Configuration dans Jeedom
 
